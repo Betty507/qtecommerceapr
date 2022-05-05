@@ -12,3 +12,6 @@ def google():
 
 def facebook():
     pass
+
+def twitter():
+    pass
