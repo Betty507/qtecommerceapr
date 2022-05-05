@@ -15,3 +15,6 @@ def facebook():
 
 def twitter():
     pass
+
+def instagram():
+    pass
