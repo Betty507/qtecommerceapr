@@ -9,3 +9,6 @@ def logout():
 
 def google():
     pass
+
+def facebook():
+    pass
