@@ -1,0 +1,6 @@
+[submodule "ui/gitlearning"]
+	path = ui/gitlearning
+	url = https://github.com/Betty507/qtecommerceapr.git
+[submodule "api/gitlearning"]
+	path = api/gitlearning
+	url = https://github.com/Betty507/qtecommerceapr.git
